@@ -1,6 +1,6 @@
 # Calculator
 
-This Repository is Calculator App build on React Native.
+This repository is a Calculator App build on React Native. It provides a simple and elegant user interface to perform basic mathematical operations. It supports addition, subtraction, multiplication, and division operations. All the code is open source and can be accessed from github. The repository also contains a detailed guide on how to install and use the app. This app is a great way to get started with React Native and learn how to develop a basic app.
 
 Apk Link : https://drive.google.com/file/d/1RVNtHL2i99XlXtgyzaIcDY6fV2h9Elgh/view
 
